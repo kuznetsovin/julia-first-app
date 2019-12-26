@@ -1,0 +1,13 @@
+name = "AnalyticsService"
+uuid = "5d92a7ea-09d4-4b6b-9924-293e6dc486fb"
+authors = ["kuznetsovin <kuznetsovin@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BinaryProvider = "b99e7846-7c00-51b0-8f62-c81ae34c0232"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
+Query = "1a8c2f83-1ff3-5112-b086-8aa67b057ba1"
+TimeZones = "f269a46b-ccf7-5d73-abea-4c690281aa53"
